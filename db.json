@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "product": [
+    {
+      "id": 19970114,
+      "title": "联想天逸510s",
+      "price": 2899,
+      "imgUrl": "https://img12.360buyimg.com/n7/jfs/t29746/50/1467859892/218888/2958801/5ce27140Nc3918155.jpg"
+    },
+    {
+      "id": 19970115,
+      "title": "戴尔成就3470",
+      "price": 3789,
+      "imgUrl": "https://img14.360buyimg.com/n7/jfs/t1/52297/38/1189/218689/5cee5c69E698c4ff9/e3d1dce44494f544.jpg"
+    },
+    {
+      "id": 19970116,
+      "title": "戴尔成就3471",
+      "price": 2889,
+      "imgUrl": "https://img14.360buyimg.com/n7/jfs/t1/76479/5/10865/71531/5d831e66E2e2ebc53/d65c20d4a7fdff94.jpg"
+    },
+    {
+      "id": 19970117,
+      "title": "联想小新Air14",
+      "price": 4299,
+      "imgUrl": "https://img14.360buyimg.com/n7/jfs/t1/76479/5/10865/71531/5d831e66E2e2ebc53/d65c20d4a7fdff94.jpg"
+    },
+    {
+      "id": 19970118,
+      "title": "联想ThinkPad",
+      "price": 4499,
+      "imgUrl": "https://img11.360buyimg.com/n7/jfs/t1/42514/11/1912/262553/5cc7e219Ee6a3fb7b/f7b38dfa82781d9b.jpg"
+    },
+    {
+      "id": 19970119,
+      "title": "联想拯救者",
+      "price": 9299,
+      "imgUrl": "https://img12.360buyimg.com/n7/jfs/t1/79105/5/1549/275769/5cfe0819E05803cb2/d56d258b14bad253.jpg"
+    }
+  ]
+}
